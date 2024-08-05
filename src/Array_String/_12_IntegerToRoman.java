@@ -1,8 +1,6 @@
 package Array_String;
 
-import java.util.HashMap;
-
-public class IntegerToRoman_12 {
+public class _12_IntegerToRoman {
     /**
      *
      Roman numerals are formed by appending the conversions of decimal place values from highest to lowest.
